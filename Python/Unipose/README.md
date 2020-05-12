@@ -12,3 +12,12 @@ are entirely contained in `pose_server.py`
 For the full docs, see the github repo 
 
 https://github.com/Sanjay-Ganeshan/UniPose
+
+
+*This package relies on Pytorch, and is only compatible with Windows 10*
+
+Please install Pytorch, as per https://pytorch.org/get-started/locally/ - this is NOT auto installed.
+
+To install this package, just use
+
+`pip install unipose`
