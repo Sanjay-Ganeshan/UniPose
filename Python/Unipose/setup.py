@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="unipose", # Replace with your own username
-    version="1.0.4",
+    version="1.0.5",
     author="Julie Ganeshan",
     author_email="HeavenlyQueen@outlook.com",
     description="2D Pose in Unity with Python backend",
