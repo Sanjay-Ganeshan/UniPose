@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="unipose", # Replace with your own username
-    version="1.0.5",
+    version="1.0.8",
     author="Julie Ganeshan",
     author_email="HeavenlyQueen@outlook.com",
     description="2D Pose in Unity with Python backend",
@@ -25,7 +25,8 @@ setuptools.setup(
         "opencv-python>=4.2.0.34",
         "easydict>=1.9",
         "tqdm>=4.46.0",
-        "numpy>=1.18.4"
+        "numpy>=1.18.4",
+        "requests>=2.23.0"
     ],
     include_package_data=True
 )

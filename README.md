@@ -1,3 +1,5 @@
+![Put That On Logo](logo_small.png "Put That On!")
+
 # Put That On & UniPose
 
 Julie Ganeshan, 6.835 Final Project, Spring 2020
@@ -13,7 +15,7 @@ The Pytorch project can be found here:
 https://github.com/rwightman/posenet-pytorch
 this is licensed under the Apache 2 license, provided in the directory.
 
-My modifications are licensed under GPLv3.
+My modifications are licensed under GPLv3. As is all of PutThatOn.
 
 And Google's original PoseNet:
 https://github.com/tensorflow/tfjs-models/tree/master/posenet
@@ -87,7 +89,14 @@ Now, you can play it anytime!
 Wondering what your Unipose server (or playback) is sending out? You can use the viewer whenever the server's running. I recommend using this only if the `--draw` command is disabled.
 `python -m unipose view`
 
+All of these commands are, of course, also accessible within Python scripts
 
+```
+from unipose import server, viewer, recorder, client
+```
+
+## Editing PutThatOn
+To see how PutThatOn works, simply open the project folder in Unity 2019.2.8f1 (I think anything in 2019.2 is compatible)
 
 
 
