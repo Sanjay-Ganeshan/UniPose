@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="unipose", # Replace with your own username
-    version="1.0.0",
+    version="1.0.1",
     author="Julie Ganeshan",
     author_email="HeavenlyQueen@outlook.com",
     description="2D Pose in Python",
@@ -16,7 +16,7 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
+        "Operating System :: Microsoft :: Windows :: Windows 10",
     ],
     python_requires='>=3.7',
     install_requires=[
