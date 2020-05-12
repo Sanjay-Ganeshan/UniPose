@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<grammar xml:lang="en-US" root="root" tag-format="properties-ms/1.0" version="1.0" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="root" scope="private">
+    <one-of>
+      <item>put that on</item>
+      <item>take this off</item>
+      <item>browse</item>
+      <item>change color</item>
+      <item>show me dresses</item>
+      <item>show me accessories</item>
+      <item>show me shirts</item>
+      <item>show me pants</item>
+      <item>take a selfie</item>
+      <item>next</item>
+      <item>previous</item>
+      <item>goodbye</item>
+    </one-of>
+  </rule>
+</grammar>

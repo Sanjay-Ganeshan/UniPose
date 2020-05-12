@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Clothing
+  - Frame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3799683867
+    locked: 0
+  - name: Photo
+    uniqueID: 2078352825
+    locked: 0
+  - name: Overlay
+    uniqueID: 694758245
+    locked: 0
+  - name: Wardrobe
+    uniqueID: 2098800503
+    locked: 0
+  - name: Preview
+    uniqueID: 1234761671
+    locked: 0
