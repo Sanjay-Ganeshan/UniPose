@@ -1,0 +1,3 @@
+include unipose/sprites/*
+include unipose/screenshots/*
+include unipose/original_docs/*
