@@ -44,7 +44,7 @@ It relies on getting pose data from a python script, described below.
 
 UniPose is also a Python package. The source code can be found under `Python/UniPose`. The easiest way to install the UniPose is with pip:
 
-`pip install julai-unipose`
+`pip install unipose`
 
 
 
